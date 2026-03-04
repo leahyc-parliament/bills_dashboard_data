@@ -3,9 +3,10 @@ library(jsonlite)
 library(tidyverse)
 library(httr2)
 library(dplyr)
+library(purrr)
 
 # fetching all bills data
-bills_url <- "https://bills-api.parliament.uk/api/v1/Bills?Take=10000"
+bills_url <- "https://bills-api.parliament.uk/api/v1/Bills?Take=50"
 
 bills_response <- GET(
   bills_url,
@@ -58,7 +59,7 @@ get_bill_stages <- function(bill_id) {
   bills_stages_url <- sprintf("https://bills-api.parliament.uk/api/v1/Bills/%s/Stages", bill_id) 
 
   stages_response <- GET(
-  stages_url,
+  bills_stages_url,
   add_headers(accept = "text/plain")
 )
   stages_text <- content(stages_response, as = "text", encoding = "UTF-8")
@@ -72,6 +73,15 @@ get_bill_stages <- function(bill_id) {
 
 
 }
+
+# testing function
+# stages <- map_dfr(bill_ids, get_bill_stages, .id = "bill_id")
+stages <- lapply(bill_ids, get_bill_stages)
+stages <- stages |> 
+  bind_rows()
+stages_test <- get_bill_stages(27)
+
+final_data <- left_join(all_bills, stages, by = c("billId" = "stageSittings_billId"))
 
 
 # testing httr2
