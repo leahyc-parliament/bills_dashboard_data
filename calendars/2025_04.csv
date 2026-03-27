@@ -1,0 +1,31 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/01
+ 2,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/02
+ 3,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/03
+ 4,Friday,Adjournment day,True,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2025/04/04
+ 5,Saturday,Adjournment day,True,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2025/04/05
+ 6,Sunday,Adjournment day,True,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2025/04/06
+ 7,Monday,Parliamentary sitting day,True,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2025/04/07
+ 8,Tuesday,Parliamentary sitting day,True,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2025/04/08
+ 9,Wednesday,Adjournment day (Easter recess),True,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2025/04/09
+10,Thursday,Adjournment day (Easter recess),True,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2025/04/10
+11,Friday,Adjournment day (Easter recess),True,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2025/04/11
+12,Saturday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/12
+13,Sunday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/13
+14,Monday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/14
+15,Tuesday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/15
+16,Wednesday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/16
+17,Thursday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/17
+18,Friday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/18
+19,Saturday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/19
+20,Sunday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/20
+21,Monday,Adjournment day (Easter recess (post recall)),False,Adjournment day (Easter recess (post recall)),False,https://api.parliament.uk/egg-timer/calendar/2025/04/21
+22,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/22
+23,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/23
+24,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/24
+25,Friday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/25
+26,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/26
+27,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/27
+28,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/28
+29,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/29
+30,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/04/30

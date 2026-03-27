@@ -1,0 +1,31 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Sunday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/01
+ 2,Monday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/02
+ 3,Tuesday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/03
+ 4,Wednesday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/04
+ 5,Thursday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/05
+ 6,Friday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/06
+ 7,Saturday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/07
+ 8,Sunday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/08
+ 9,Monday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/09
+10,Tuesday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/10
+11,Wednesday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/11
+12,Thursday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/12
+13,Friday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/13
+14,Saturday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/14
+15,Sunday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2018/04/15
+16,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/16
+17,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/17
+18,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/18
+19,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/19
+20,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/20
+21,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/21
+22,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/22
+23,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/23
+24,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/24
+25,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/25
+26,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/26
+27,Friday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/27
+28,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/28
+29,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/29
+30,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2018/04/30

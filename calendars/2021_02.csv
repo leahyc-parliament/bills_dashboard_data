@@ -1,0 +1,29 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/01
+ 2,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/02
+ 3,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/03
+ 4,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/04
+ 5,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/05
+ 6,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/06
+ 7,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/07
+ 8,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/08
+ 9,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/09
+10,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/10
+11,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/11
+12,Friday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/12
+13,Saturday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/13
+14,Sunday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/14
+15,Monday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/15
+16,Tuesday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/16
+17,Wednesday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/17
+18,Thursday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/18
+19,Friday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/19
+20,Saturday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/20
+21,Sunday,Adjournment day (February recess),False,Adjournment day (February recess),False,https://api.parliament.uk/egg-timer/calendar/2021/02/21
+22,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/22
+23,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/23
+24,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/24
+25,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/25
+26,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/26
+27,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/27
+28,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/02/28

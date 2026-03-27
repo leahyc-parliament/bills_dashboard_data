@@ -1,0 +1,32 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/01
+ 2,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/02
+ 3,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/03
+ 4,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/04
+ 5,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/05
+ 6,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/06
+ 7,Friday,Parliamentary sitting day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/07
+ 8,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/08
+ 9,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/09
+10,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/10
+11,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/11
+12,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/12
+13,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/13
+14,Friday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/14
+15,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/15
+16,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/16
+17,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/17
+18,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/18
+19,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/19
+20,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/20
+21,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/21
+22,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/22
+23,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/23
+24,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/24
+25,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/25
+26,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/26
+27,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/27
+28,Friday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/28
+29,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/29
+30,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/30
+31,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2025/03/31

@@ -1,0 +1,32 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/01
+ 2,Friday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/02
+ 3,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/03
+ 4,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/04
+ 5,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/05
+ 6,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/06
+ 7,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/07
+ 8,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/08
+ 9,Friday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/09
+10,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/10
+11,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/11
+12,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/12
+13,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/13
+14,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/14
+15,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/15
+16,Friday,Adjournment day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/16
+17,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/17
+18,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/18
+19,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/19
+20,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/20
+21,Wednesday,Adjournment day (Christmas recess),False,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/12/21
+22,Thursday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/22
+23,Friday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/23
+24,Saturday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/24
+25,Sunday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/25
+26,Monday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/26
+27,Tuesday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/27
+28,Wednesday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/28
+29,Thursday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/29
+30,Friday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/30
+31,Saturday,Adjournment day (Christmas recess),False,Adjournment day (Christmas recess),False,https://api.parliament.uk/egg-timer/calendar/2022/12/31

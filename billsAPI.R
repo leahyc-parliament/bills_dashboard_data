@@ -95,3 +95,4 @@ first_and_current_stages_httr2 <- stages_json_httr2$items |>
   tibble() |> 
   unnest(stageSittings, names_sep = "_") |> 
   filter(stageSittings_date == min(stageSittings_date) | stageSittings_date == max(stageSittings_date))
+

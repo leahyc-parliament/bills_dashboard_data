@@ -1,0 +1,32 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/01
+ 2,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/02
+ 3,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/03
+ 4,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/04
+ 5,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/05
+ 6,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/06
+ 7,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/07
+ 8,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/08
+ 9,Wednesday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2019/10/09
+10,Thursday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2019/10/10
+11,Friday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2019/10/11
+12,Saturday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2019/10/12
+13,Sunday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2019/10/13
+14,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/14
+15,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/15
+16,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/16
+17,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/17
+18,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/18
+19,Saturday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/19
+20,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/20
+21,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/21
+22,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/22
+23,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/23
+24,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/24
+25,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/25
+26,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/26
+27,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/27
+28,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/28
+29,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/29
+30,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/30
+31,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2019/10/31

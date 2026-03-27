@@ -1,0 +1,32 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/01
+ 2,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/02
+ 3,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/03
+ 4,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/04
+ 5,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/05
+ 6,Monday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/06
+ 7,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/07
+ 8,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/08
+ 9,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/09
+10,Friday,Adjournment day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/10
+11,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/11
+12,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/12
+13,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/13
+14,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/14
+15,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/15
+16,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/16
+17,Friday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/17
+18,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/18
+19,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/19
+20,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/20
+21,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/21
+22,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/22
+23,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/23
+24,Friday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2024/05/24
+25,Saturday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2024/05/25
+26,Sunday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2024/05/26
+27,Monday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2024/05/27
+28,Tuesday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2024/05/28
+29,Wednesday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2024/05/29
+30,Thursday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2024/05/30
+31,Friday,Dissolution,False,Dissolution,False,https://api.parliament.uk/egg-timer/calendar/2024/05/31

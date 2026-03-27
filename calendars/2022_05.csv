@@ -1,0 +1,32 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Sunday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/01
+ 2,Monday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/02
+ 3,Tuesday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/03
+ 4,Wednesday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/04
+ 5,Thursday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/05
+ 6,Friday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/06
+ 7,Saturday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/07
+ 8,Sunday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/08
+ 9,Monday,Prorogation,False,Prorogation,False,https://api.parliament.uk/egg-timer/calendar/2022/05/09
+10,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/10
+11,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/11
+12,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/12
+13,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/13
+14,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/14
+15,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/15
+16,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/16
+17,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/17
+18,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/18
+19,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/19
+20,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/20
+21,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/21
+22,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/22
+23,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/23
+24,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/24
+25,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/25
+26,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2022/05/26
+27,Friday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2022/05/27
+28,Saturday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2022/05/28
+29,Sunday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2022/05/29
+30,Monday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2022/05/30
+31,Tuesday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2022/05/31

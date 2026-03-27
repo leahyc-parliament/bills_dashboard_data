@@ -1,0 +1,31 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Tuesday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2021/06/01
+ 2,Wednesday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2021/06/02
+ 3,Thursday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2021/06/03
+ 4,Friday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2021/06/04
+ 5,Saturday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2021/06/05
+ 6,Sunday,Adjournment day (Whitsun recess),False,Adjournment day (Whitsun recess),False,https://api.parliament.uk/egg-timer/calendar/2021/06/06
+ 7,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/07
+ 8,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/08
+ 9,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/09
+10,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/10
+11,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/11
+12,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/12
+13,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/13
+14,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/14
+15,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/15
+16,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/16
+17,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/17
+18,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/18
+19,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/19
+20,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/20
+21,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/21
+22,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/22
+23,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/23
+24,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/24
+25,Friday,Adjournment day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/25
+26,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/26
+27,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/27
+28,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/28
+29,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/29
+30,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2021/06/30

@@ -1,0 +1,31 @@
+Date,Day,Commons day type,Commons scrutiny day?,Lords day type,Lords scrutiny day?,Day URL
+ 1,Wednesday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/01
+ 2,Thursday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/02
+ 3,Friday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/03
+ 4,Saturday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/04
+ 5,Sunday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/05
+ 6,Monday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/06
+ 7,Tuesday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/07
+ 8,Wednesday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/08
+ 9,Thursday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/09
+10,Friday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/10
+11,Saturday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/11
+12,Sunday,Adjournment day (Easter recess),False,Adjournment day (Easter recess),False,https://api.parliament.uk/egg-timer/calendar/2026/04/12
+13,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/13
+14,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/14
+15,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/15
+16,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/16
+17,Friday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/17
+18,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/18
+19,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/19
+20,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/20
+21,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/21
+22,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/22
+23,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/23
+24,Friday,Adjournment day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/24
+25,Saturday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/25
+26,Sunday,Adjournment day,True,Adjournment day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/26
+27,Monday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/27
+28,Tuesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/28
+29,Wednesday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/29
+30,Thursday,Parliamentary sitting day,True,Parliamentary sitting day,True,https://api.parliament.uk/egg-timer/calendar/2026/04/30
