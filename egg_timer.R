@@ -21,8 +21,8 @@ for (year in years) {
 }
 
 
+# combine all csvs into one df - using file names to build date column
 file_names <- list.files("calendars", full.names = TRUE)
-
 
 convert_dates <- function(csv) {
   file_name <- basename(csv)
@@ -47,6 +47,8 @@ calendar <- lapply(file_names, convert_dates) |>
          "Commons day type",
         "Lords day type")
 
+
+# count sitting rows between inputted dates
 calculate_sitting_day <- function(start_date, end_date) {
   filtered <- calendar |> 
     filter(
@@ -69,21 +71,24 @@ calculate_sitting_day <- function(start_date, end_date) {
 
 }
 
+# final sitting days returned
 sitting_days <- calculate_sitting_day("2019-01-01", "2019-02-01")
 
 
-# waaaaay simpler method lol
-
+# waaaaay simpler method lol (depending how we set up the shiny app, might actually be better to rely on local calendar tables rather than sending API requests for each calc?)
 get_sitting_days <- function(start_date, end_date){
   url <- sprintf("https://api.parliament.uk/egg-timer/calculator/interval/calculate.json?end-date=%s&start-date=%s", end_date, start_date)
 
   response <- request(url) |> 
-    req_perform()
+    req_perform() |> 
+    resp_body_json()
+
+   tibble(
+    commons = as.integer(response$house_of_commons_sitting_day_count),
+    lords   = as.integer(response$house_of_lords_sitting_day_count)
+  )
 }
 
+sitting_days <- get_sitting_days("2019-01-01", "2019-02-01")
 
-
-resp <- request(url) |> 
-  req_perform() |> 
-  resp_body_json()
 

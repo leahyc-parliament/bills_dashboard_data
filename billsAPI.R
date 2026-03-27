@@ -6,7 +6,7 @@ library(dplyr)
 library(purrr)
 
 # fetching all bills data
-bills_url <- "https://bills-api.parliament.uk/api/v1/Bills?Take=50"
+bills_url <- "https://bills-api.parliament.uk/api/v1/Bills?Take=10000"
 
 bills_response <- GET(
   bills_url,
@@ -32,7 +32,7 @@ kings_bills <- all_bills |> filter (billId %in% kings_ids)
 # Get bill stages data for one bill 
 # You can comment this out, but I've left in just to show you the thought process behind the final script. 
 # It's best to get the data in the format you need for just one item (in this case bill 3881) and then convert that into a function to loop through all items.
-stages_url <- "https://bills-api.parliament.uk/api/v1/Bills/3881/Stages"
+stages_url <- "https://bills-api.parliament.uk/api/v1/Bills/3733/Stages"
 
 stages_response <- GET(
   stages_url,
