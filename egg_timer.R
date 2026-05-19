@@ -91,4 +91,8 @@ get_sitting_days <- function(start_date, end_date){
 
 sitting_days <- get_sitting_days("2019-01-01", "2019-02-01")
 
+# for first_and_current_stages, if description = "Royal Ascent", use date, if else, use todays date. 
+# Output of bill_id, start_date, end_date.
+# if introduced to lords display "15 (Lords)"
+
 

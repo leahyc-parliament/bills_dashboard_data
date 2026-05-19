@@ -7,6 +7,8 @@ library(dplyr)
 library(purrr)
 library(janitor)
 library(xml2)
+library(stringr)
+library(lubridate)
 
 # creating list of original bill titles from Kings speech announcement
 announcement_url <- "https://commonslibrary.parliament.uk/research-briefings/cbp-10314/"
@@ -17,6 +19,14 @@ table <- page |>
   purrr::pluck(1) |> 
   row_to_names(row_number = 1)
 
+table$`Date introduced` <- dmy(table$`Date introduced`)
+table$`Date introduced` <- format(table$`Date introduced`, "%d/%m/%Y")
+
+table$`Royal Assent date` <- dmy(table$`Royal Assent date`)
+table$`Royal Assent date` <- format(table$`Royal Assent date`, "%d/%m/%Y")
+
+saveRDS(table, "initial_data.rds")
+readRDS("initial_data.rds")
 
 # fetching all bills data
 bills_url <- "https://bills-api.parliament.uk/api/v1/Bills?Take=10000"
@@ -36,6 +46,10 @@ all_bills <- bills_json$items |>
 # extracting list of bill ID's
 bill_ids <- all_bills$billId
 
+# adding ID's to table
+table <- table |>
+  left_join(all_bills, by = c("Name of bill introduced" = "shortTitle"))
+
 
 # Filter to King's Speech bills using bill ID
 kings_ids <- c(3733, 3881, 3734, 3938) # include all relevant bill IDs here
@@ -45,7 +59,7 @@ kings_bills <- all_bills |> filter (billId %in% kings_ids)
 # Get bill stages data for one bill 
 # You can comment this out, but I've left in just to show you the thought process behind the final script. 
 # It's best to get the data in the format you need for just one item (in this case bill 3881) and then convert that into a function to loop through all items.
-stages_url <- "https://bills-api.parliament.uk/api/v1/Bills/3733/Stages"
+stages_url <- "https://bills-api.parliament.uk/api/v1/Bills/3938/Stages?Take=500"
 
 stages_response <- GET(
   stages_url,
@@ -122,6 +136,20 @@ news_data <- news_data |>
   bind_rows() |>
     mutate(billId = kings_ids) |>  # add column with bill IDs  
     select(billId, title, content) # delete columns other than those showing bill IDs, member name and member party
+
+# Source - https://stackoverflow.com/q/14871249
+# Posted by Fr.
+# Retrieved 2026-04-15, License - CC BY-SA 3.0
+
+    # data <- lapply(tbl[2:6], FUN = function(x) as.numeric(gsub("%", "", x)))
+
+
+# cleaned_news <- as.data.frame(lapply(news_data, FUN = function(x) gsub("<p>", "", x))) 
+
+
+
+cleaned <- news_data |> mutate(content = str_remove(content, "<p>")) |> 
+  mutate(content = str_remove(content, "</p>"))
 
 
 # Next get info on related Library briefings
