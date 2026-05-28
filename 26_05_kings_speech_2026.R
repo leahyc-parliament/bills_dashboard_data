@@ -1,12 +1,6 @@
 library(httr)
 library(jsonlite)
 library(tidyverse)
-library(httr2)
-library(dplyr)
-library(purrr)
-library(stringr)
-library(janitor)
-library(xml2)
 
 # =================================
 # BUILDING TABLE FROM KINGS SPEECH
@@ -328,12 +322,6 @@ publications_data <- publications_data |>
       links_url
     )
   )
-
-# publications_final <- left_join(
-#   kings_bills,
-#   publications_data,
-#   by = c("bill_id" = "billId")
-# ) |>
 
 publications_final <- publications_data |>
   rename(
